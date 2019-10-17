@@ -1,4 +1,4 @@
-from python_testing.utils import func_add
+from ad_python.utils import func_add
 
 def test_func_add():
 
